@@ -8,6 +8,9 @@ This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments
 
 ---
 
+**Assignment Links**: 
+- [Module 2](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
+
 **Solution Links:**
 
 - [Module 2 Solution](https://alefrizzera.github.io/coursera-frontend/module2-solution/index.html)
