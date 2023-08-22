@@ -18,4 +18,4 @@ This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments
 - [Module 4 Solution](https://alefrizzera.github.io/coursera-frontend/module4-solution/index.html)
 - [Module 5 Solution](https://alefrizzera.github.io/coursera-frontend/module4-solution/index.html)
 
-- Student: Alessandro Frizzera Baumgarten
+Student: Alessandro Frizzera Baumgarten
